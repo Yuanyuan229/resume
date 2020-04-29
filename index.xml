@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuanyuan Ge</title>
+    <link>https://yuanyuan229.github.io/</link>
+    <description>Recent content on Yuanyuan Ge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Yuanyuan GE 2020</copyright>
+    <lastBuildDate>Thu, 19 Mar 2020 23:56:19 +0100</lastBuildDate>
+    
+	<atom:link href="https://yuanyuan229.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://yuanyuan229.github.io/contact/</link>
+      <pubDate>Wed, 13 Jan 2016 00:36:59 +0100</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/contact/</guid>
+      <description>Feel free to message me via social medias or email me at yyge@ucdavis.edu.
+I&amp;rsquo;m also present on about.me, facebook, google+, spotify, Instagram and pinterest. :)</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://yuanyuan229.github.io/about/</link>
+      <pubDate>Thu, 19 Mar 2020 23:56:19 +0100</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/about/</guid>
+      <description>I&amp;rsquo;m Yuanyuan! Testing&amp;hellip; and I&amp;rsquo;m web developer in Copenhagen / Denmark from France (I speak danish ;). I&amp;rsquo;m passionate and curious so I enjoy experimenting and developing web applications using the latest web standards and learning about new languages and technologies. SEO, SERP and Semantic Web are a part of my interests too.
+As a primary backend developer, I use PHP with different open-source databases like MySQL, PostgreSQL and MangoDB. To not reinvent the wheel, I mainly use hight performance PHP frameworks like Symfony2 or Silex, with Doctrine2 / Propel (ORM) and Twig (template engine).</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://yuanyuan229.github.io/projects/</link>
+      <pubDate>Wed, 13 Jan 2016 00:17:36 +0100</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/projects/</guid>
+      <description> Sports Analytics - Pitch Type Prediction for Baseball eBay-Price-Web-Scrapping Spotify-User-Preference-Exploration  </description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://yuanyuan229.github.io/resume/</link>
+      <pubDate>Thu, 19 Mar 2020 00:49:19 +0100</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/resume/</guid>
+      <description>Profile  Specialties: Data Analysis, Machine Learning, Visualization, Causal Inference (A/B Testing), Cloud Computing, Statistical Exploration, Experimental Design and Analysis, Storytelling with Data, Business Presentations Technologies: R, Python, SQL, MongoDB, Tableau, Java Basics, Amazon Web Service, Adobe Premiere Languages: Chinese(Native), English(Fluent), French(Advanced) Certifications: AWS Cloud Practitioner, Tableau Desktop Specialist  Education  University of California, Davis, San Francisco, CA
+Master of Science in Business Analytics, Sept 2019 - Expected Jun. 2020</description>
+    </item>
+    
+    <item>
+      <title>Pinterest</title>
+      <link>https://yuanyuan229.github.io/pinterest/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/pinterest/</guid>
+      <description>Pinterest This is the note of a Pinterest info session hosted by UC Davis MSBA.
+user oriented
+ownership
+ inclusive product  2 examples
+change the color of &amp;lsquo;saved&amp;rsquo; notification at the bottom
+select skin tone range (hear from users, 2 interns shared the same experience, improved the product, launch, positive user feedback) (要用ml做image recognization 和 classification)
+URG: under represented group
+ inclusive ML  BIAS in AI
+ML recommendation</description>
+    </item>
+    
+    <item>
+      <title>Hello world!</title>
+      <link>https://yuanyuan229.github.io/hello-world/</link>
+      <pubDate>Sun, 13 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuanyuan229.github.io/hello-world/</guid>
+      <description>I took time this week-end to set up Jekyll to blog like an hacker :) I tried Octopress on Heroku. It works good but it&amp;rsquo;s &amp;ldquo;less&amp;rdquo; flexible than the original one. It was a good way to use Ruby again.
+hello world!!! You can find the entire source code of sbin.dk in Github. A lot of improvements will come later like Twitter feed, better standards with Media Queries, Microdata, WAI-ARIA and CORS&amp;hellip; Maybe a bit with the responsive design too.</description>
+    </item>
+    
+  </channel>
+</rss>
